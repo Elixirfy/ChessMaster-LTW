@@ -70,9 +70,6 @@ src/
 └── data/
     └── types.js            # Types + mock data
 ```
-
-> Xem [TECHNICAL.md](./TECHNICAL.md) để biết chi tiết về React patterns và cơ chế kỹ thuật.
-
 ## License
 
 MIT
